@@ -1,0 +1,15 @@
+{
+  "name": "chrono-del-back",
+  "version": "1.0.0",
+  "description": "backend of chrono del",
+  "license": "ISC",
+  "author": "Leo",
+  "type": "commonjs",
+  "main": "app.ts",
+  "scripts": {
+    "test": "node app.ts"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
